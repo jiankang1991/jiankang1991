@@ -5,4 +5,4 @@
 
 - 🔭 I’m currently working in the School of Electronic and Information Engineering, Soochow University, Suzhou, China as an Associate Professor. I am interested in developing advanced signal/image processing and machine learning algorithms for remote sensing data processing (e.g., SAR image denoising, SAR image interpretation, scene classification, image retrieval,  ...). 
 
-🔗 [Personal Homepage](https://jiankang1991.github.io/) 🔗 [Official Homepage](http://web.suda.edu.cn/kj/)
+🔗 [Personal Homepage](https://jiankang1991.github.io/) 🔗 [Official Homepage](http://web.suda.edu.cn/jiankang/index.html)
